@@ -2065,6 +2065,7 @@ footer .soc-link {
   align-items: center;
 }
 .about-img img {
+  height: 450px;
   max-width: 100%;
   display: block;
 }
@@ -2197,7 +2198,7 @@ footer .soc-link {
   justify-content: center;
 }
 .s-team {
-  padding: 90px 0 50px;
+  padding: 0px 0 50px;
 }
 
 }
@@ -2282,16 +2283,30 @@ footer .soc-link {
 }
 .overviewtitle {
   color: #1da912;
-  text-align: center;
+  text-align: left;
   font-size: 20px;
   font-weight: bold;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 .overviewinfo {
   color: #292929;
   font-size: 16px;
-  text-align: center;
+  text-align: left;
   padding-top: 5px;
+}
+.visiontitle {
+  color: #1da912;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.visioninfo {
+  color: #292929;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 3px;
 }
 .servicestitle {
   color: #fff;
